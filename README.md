@@ -110,4 +110,5 @@ help or help <command> Ex:
 * Review
 
 # Author
-* David Masila. 
+* Haggai Gisore
+*Felicia Magingo 
